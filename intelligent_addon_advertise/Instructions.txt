@@ -1,0 +1,5 @@
+1) Run the console command intelligent_addon_advertise on the client
+2) Paste the content of the clipboard in the table addons_list
+3) Put Workshop IDs as the 1st string of each line (by default the 1st string is empty)
+4) Remove useless lines (vehicles already included in GMod)
+5) Adjust the collection URL
